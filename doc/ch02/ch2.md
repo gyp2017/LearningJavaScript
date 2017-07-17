@@ -84,7 +84,7 @@ $ node dist/ch02/test.js
 
 ## 2.4 린트
 ```sh
-$ yarn add -D eslint
+$ yarn add -D eslint gulp-eslint
 ```
 
 ```sh
@@ -97,3 +97,5 @@ $ yarn add -D eslint-config-airbnb-base eslint-plugin-import
   "extends": "airbnb-base"
 }
 ```
+
+## 2.5 요약
